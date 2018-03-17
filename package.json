@@ -1,0 +1,32 @@
+{
+	"author": {
+		"name": "Adrian Praja",
+		"email": "adrian@databank.ro",
+		"url": "https://databank.ro"
+	},
+	"name": "rotld",
+	"description": "ROTLD REST API",
+	"keywords": [
+		"rotld"
+	],
+	"version": "0.0.2",
+	"repository": {
+		"type" :  "git",
+		"url": "https://github.com/databank/rotld-nodejs"
+	},
+	"main": "./index",
+	"license": "MIT",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"mocha": "3.5.3",
+		"async": "*",
+		"assert": "*"
+	},
+	"scripts": {
+		"test": "mocha --timeout 100000 -S -R spec"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
