@@ -17,6 +17,7 @@
 	"main": "./index",
 	"license": "MIT",
 	"dependencies": {
+		"request": "*"
 	},
 	"devDependencies": {
 		"mocha": "3.5.3",
