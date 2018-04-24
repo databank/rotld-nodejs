@@ -1,2 +1,2 @@
 # rotld-nodejs
-ROTLD ( Romanian TOP LEGEL DOMAIN ) module for nodejs
+ROTLD ( Romanian TOP LEVEL DOMAIN ) module for nodejs
